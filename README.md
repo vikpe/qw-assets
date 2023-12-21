@@ -1,0 +1,2 @@
+# qw-assets
+QuakeWorld assets.
