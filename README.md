@@ -1,2 +1,3 @@
-# qw-assets
-QuakeWorld assets.
+# QuakeWorld Assets
+
+Used by various web based projects.
