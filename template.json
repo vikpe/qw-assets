@@ -1,0 +1,20 @@
+{
+  "name": "$NAME",
+  "filename": "$FILENAME",
+  "date": "$DATE",
+  "author_name": "$AUTHOR_NAME",
+  "author_url": "$AUTHOR_URL",
+  "category": "$CATEGORY",
+  "checksums": {
+    "bsp": "$BSP_CHECKSUM",
+    "loc": "$LOC_CHECKSUM"
+  },
+  "screenshot_count": "$SCREENSHOT_COUNT",
+  "screenshots": [
+    {
+      "title": "$SCREENSHOT_TITLE",
+      "cam_pos": "$SCREENSHOT_CAM_POS",
+      "cam_angle": "$SCREENSHOT_CAM_ANGLE"
+    }
+  ]
+}
