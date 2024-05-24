@@ -6,3 +6,4 @@ Used by various web based projects.
 
 * https://github.com/fzwoch/quake_map_source/
 * https://maps.quakeworld.nu/
+* https://github.com/qw-ctf/lits
