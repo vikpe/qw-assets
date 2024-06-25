@@ -1,6 +1,8 @@
 # QuakeWorld Assets
 
-Used by various web based projects.
+## Notes
+
+* The episode maps in this repository are GPL versions with built in .lit files.
 
 ## Sources
 
