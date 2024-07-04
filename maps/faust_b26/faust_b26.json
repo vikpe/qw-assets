@@ -2,5 +2,7 @@
   "authors": [
     "kwon"
   ],
-  "release_date": null
+  "release_date": null,
+  "revision_of": "faust",
+  "alteration_of": null
 }

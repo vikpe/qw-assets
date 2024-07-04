@@ -2,5 +2,9 @@
   "authors": [
     "dirtbox"
   ],
-  "release_date": "2020"
+  "release_date": "2020",
+  "revision_of": null,
+  "alteration_of": [
+    "dm4"
+  ]
 }
