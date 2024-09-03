@@ -10,7 +10,7 @@ fi
 
 # mapmeta
 if [ ! -d ${MAPMETA_DIR} ]; then
-  git clone https://github.com/vikpe/qw-assets-mapmeta ${MAPMETA_DIR}
+  git clone git@github.com:vikpe/qw-assets-mapmeta.git ${MAPMETA_DIR}
 else
   (
     cd ${MAPMETA_DIR}
