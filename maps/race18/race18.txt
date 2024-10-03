@@ -1,0 +1,59 @@
+===========================================================================
+Title                   : Power Plant
+Filename                : race18.bsp
+Release date            : 2022/05/01
+Author                  : anni
+Discord                 : Annihilator
+Other Files By Author   : race1,2,3,4,5,6,7,8,9,10,11,12,13,14,14,16,17,antemple,anruin,anarena,an1-beta6,analog
+Misc. Author Info       : Doing mainly maps for the Quakeworld Race & Deathmatch Community
+
+Description             : Running from start to finish as fast as possible
+                          https://www.quakeworld.nu/forum/topic/5058
+
+Additional Credits to   : Meag for hosting the race page
+===========================================================================
+* What is included *
+
+New levels              : No
+Sounds                  : No
+Music                   : No
+Graphics                : Makkon3.wad
+Other                   : No
+Other files required    : Quakeworld KTX server mod RACE
+
+
+* Play Information *
+
+How to start            : Connect to nl2.badplace.eu:28501-6 (EzQuake Client recommend)
+                        : type race18, type race, type ready
+Difficulty Settings     : No
+World Records           : https://badplace.eu/race/
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 2 weeks
+Editor(s) used          : TrenchBroom 2019.6
+Known Bugs              : no
+May Not Run With        : Clients, who doesn`t support bsp2 format
+Tested With             : EzQuake 3.2
+
+
+
+* Copyright / Permissions *
+
+Authors may use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+Web sites: https://www.quakeworld.nu/forum/topic/5058
