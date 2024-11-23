@@ -1,6 +1,6 @@
 {
-  "authors": [],
-  "release_date": null,
+  "authors": ["alice"],
+  "release_date": "2024-11",
   "revision_of": null,
   "alteration_of": []
 }
