@@ -26,7 +26,7 @@ mv ${MAPMETA_DIR}/target/release/mapmeta ${TMP_DIR}/mapmeta
 
 # quake-cli-tools
 if [ ! -d ${QTOOLS_DIR} ]; then
-  git clone https://github.com/joshuaskelly/quake-cli-tools.git ${QTOOLS_DIR}
+  git clone -b slicing https://github.com/alexkiri/quake-cli-tools.git ${QTOOLS_DIR}
 
   (
     cd ${QTOOLS_DIR}
@@ -53,7 +53,7 @@ for MAPDIR in maps/*; do
   # svg
   if [ -f ${MAPDIR}/${MAPNAME}.bsp ]; then
      if [ ! -f ${MAPDIR}/${MAPNAME}.svg ]; then
-      ${TMP_DIR}/qtools/dist/bsp2svg/bsp2svg ${MAPDIR}/${MAPNAME}.bsp -d ${MAPDIR}/${MAPNAME}.svg
+      ${TMP_DIR}/qtools/dist/bsp2svg/bsp2svg ${MAPDIR}/${MAPNAME}.bsp -d ${MAPDIR}/${MAPNAME}.svg --slices -q
       ${SVGCLEANER_BIN} ${MAPDIR}/${MAPNAME}.svg ${MAPDIR}/${MAPNAME}.svg
     fi
   fi
